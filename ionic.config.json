@@ -1,0 +1,7 @@
+{
+  "name": "lens-clone-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
