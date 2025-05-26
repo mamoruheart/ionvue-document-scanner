@@ -8,6 +8,7 @@ Document Scanner app like MS Lens using Ionic Vue and Capacitor
 
 ```yaml
 node.js: 18.17.1
+npm: 9.6.7
 
 ionic/cli: 7.2.0
 capacitor/cli: 6.1.2
@@ -62,4 +63,4 @@ $ gradlew assembleRelease
 
 ![MS Lens Clone app](screenshot_scan.png)
 
-&copy; 2024 codeguru827
+&copy; 2024 codeguru, All Rights Reserved.
